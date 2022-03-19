@@ -1,0 +1,31 @@
+.banner-sec {
+    background: url("../../../assets/imglogo/bnpl.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1010px;
+} 
+
+.bnr img {
+    height: 500px;
+}
+
+.cont {
+    margin-left: 390px;
+    margin-top: 500px;
+}
+
+.cont h2 {
+    color: #00008b;
+    margin-left: 170px;
+    font-size: 40px;
+}
+
+.cont h1 {
+    font-size: 50px;
+    color: darkblue;
+}
+
+.cont p {
+    font-size: 20px;
+    /*! margin-left: -80px; */
+}
